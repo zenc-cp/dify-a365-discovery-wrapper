@@ -1,0 +1,10 @@
+{
+  "schema": 1,
+  "dify_origin": "https://dify.example.invalid",
+  "tenant_id": "10000000-0000-4000-8000-000000000001",
+  "blueprint_id": "20000000-0000-4000-8000-000000000001",
+  "client_id": "30000000-0000-4000-8000-000000000001",
+  "operator_id": "40000000-0000-4000-8000-000000000001",
+  "workspace_id": "50000000-0000-4000-8000-000000000001",
+  "operator_upn": "operator@example.invalid"
+}

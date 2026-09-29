@@ -1,0 +1,15 @@
+{
+  "schema": 1,
+  "instance_url": "https://dify.example.invalid",
+  "workspace_id": "50000000-0000-4000-8000-000000000001",
+  "observed_at_utc": "2026-09-29T00:00:00Z",
+  "selection_filters": {"created_by_me": false, "mode": "all", "name": null, "source_ids": null},
+  "complete": true,
+  "credentials_returned": false,
+  "total": 2,
+  "pages": [{"page": 1, "limit": 100, "total": 2, "count": 2, "has_more": false}],
+  "apps": [
+    {"id": "60000000-0000-4000-8000-000000000001", "name": "Lab Chatbot", "mode": "chat"},
+    {"id": "60000000-0000-4000-8000-000000000002", "name": "Lab Chatflow", "mode": "advanced-chat"}
+  ]
+}

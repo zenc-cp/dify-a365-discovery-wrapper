@@ -1,0 +1,16 @@
+{
+  "schema": 1,
+  "source": {
+    "dify_origin": "https://dify.example.invalid",
+    "workspace_id": "50000000-0000-4000-8000-000000000001",
+    "tenant_id": "10000000-0000-4000-8000-000000000001",
+    "blueprint_id": "20000000-0000-4000-8000-000000000001"
+  },
+  "items": {
+    "60000000-0000-4000-8000-000000000001": {
+      "identity_id": "70000000-0000-4000-8000-000000000001",
+      "identity_name": "Existing Lab Identity",
+      "registration_id": "T_example-registration"
+    }
+  }
+}

@@ -1,0 +1,23 @@
+# Personal config, approvals, discovery data and runtime receipts never belong in Git.
+.local/
+*.local.json
+*.local.*
+.env
+.env.*
+# Locally installed public dependencies and build outputs
+.tools/
+**/bin/
+**/obj/
+**/__pycache__/
+*.py[cod]
+.venv/
+# Secrets are not inputs to this sample
+*.pem
+*.key
+*.pfx
+*.p12
+# Editor/OS artifacts
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
